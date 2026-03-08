@@ -1,0 +1,25 @@
+# Requirements for VLLM-Enhanced Change Detection System
+
+# Core dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+ultralytics>=8.0.0
+scikit-image>=0.21.0
+
+# Deep Learning (PyTorch)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Vision-Language Model (BLIP-2)
+transformers>=4.30.0
+accelerate>=0.20.0
+sentencepiece>=0.1.99
+pillow>=10.0.0
+
+# Optional: For faster inference
+# bitsandbytes>=0.41.0  # For 8-bit quantization to reduce VRAM usage
+
+# GPU Requirements:
+# - For blip2-opt-2.7b: Minimum 6GB VRAM (RTX 3060, RTX 2060 Super, etc.)
+# - For blip2-flan-t5-xl: Minimum 12GB VRAM (RTX 3080, RTX 4070, etc.)
+# - CPU-only mode is supported but will be significantly slower (~10-20x)
