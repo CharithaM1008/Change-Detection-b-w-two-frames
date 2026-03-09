@@ -51,9 +51,5 @@ results/
 .DS_Store
 Thumbs.db
 
-# Jupyter Notebooks
-.ipynb_checkpoints/
-*.ipynb
-
 # Logs
 *.log
