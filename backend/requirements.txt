@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+opencv-python
+scikit-image
+numpy
+ultralytics
+anthropic
