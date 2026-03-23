@@ -208,3 +208,8 @@ start_frontend.bat   ← installs npm deps and starts Vite on port 5173
 | Database | SQLite via SQLAlchemy |
 | Frontend | React 18 + Vite |
 | Image Processing | OpenCV + NumPy |
+
+## Results
+
+<img width="1411" height="1020" alt="image" src="https://github.com/user-attachments/assets/e105256d-86b6-4eea-89d9-e3070ed9690c" />
+
