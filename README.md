@@ -210,6 +210,7 @@ start_frontend.bat   ← installs npm deps and starts Vite on port 5173
 | Image Processing | OpenCV + NumPy |
 
 ## Results
+Pattern Based Caption Generation
+<img width="1404" height="1029" alt="image" src="https://github.com/user-attachments/assets/4454d921-c352-4583-aefe-19071c4a1d31" />
 
-<img width="1411" height="1020" alt="image" src="https://github.com/user-attachments/assets/e105256d-86b6-4eea-89d9-e3070ed9690c" />
 
